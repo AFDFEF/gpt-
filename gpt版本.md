@@ -55,9 +55,7 @@ ChatGPT 会回复你：
 ---
 
 
----
-
-## 7. 练习注意事项
+## 练习注意事项
 
 - 每次练习后，让 ChatGPT 详细解释修改原因，不要只看答案。  
 - 尽量用完整句子表达，避免单词堆积。  
@@ -68,7 +66,7 @@ ChatGPT 会回复你：
 
 prompt
 
-Pretend you are an IELTS Speaking examiner. Ask me 5 Part 1 questions on the topic of hobbies. After each of my answers, give short feedback and a corrected version.
+> Pretend you are an IELTS Speaking examiner. Ask me 3 Part 1 questions on the topic of hobbies. After each of my answers, give short feedback and a corrected version.
 
 Give me an IELTS Speaking Part 2 topic card. Let me prepare for 1 minute, then let me answer for 2 minutes. After that, give me a band 9 sample answer and point out 3 improvements I can make.
 
