@@ -29,32 +29,11 @@ ChatGPT 会回复你：
 用它改正的句子再说一遍，比如：  
 > "I usually go to the park on weekends. I like reading books in my free time."
 
-### Step 5：延伸对话  
-继续聊，比如问它：  
-> "What books do you recommend for improving English?"
-
 ---
 
-## 3. 方法二：情景模拟练习
 
-### Step 1：选择一个场景  
-告诉 ChatGPT：  
-> "Pretend you are a hotel receptionist. I will be a guest checking in. Ask me typical questions."
 
-### Step 2：角色扮演对话  
-回答它的提问，比如：  
-> "My name is John. I have a reservation for tonight."
-
-### Step 3：请求反馈  
-结束对话后，问：  
-> "Please correct my mistakes and give me better ways to answer these questions."
-
-### Step 4：重点练习常用表达  
-把它给的建议记下来，反复练习这些句型，熟悉场景用语。
-
----
-
-## 4. 方法三：即兴表达训练
+## 4. 方法二：即兴表达训练
 
 ### Step 1：让 ChatGPT 给话题  
 > "Please give me a simple topic for a 1-minute English speech."
@@ -75,35 +54,6 @@ ChatGPT 会回复你：
 
 ---
 
-## 5. 方法四：模仿与改写训练
-
-### Step 1：选一段英文材料  
-可以是电影台词、演讲片段，或者新闻短文。  
-把它发给 ChatGPT。
-
-### Step 2：请求简化和地道改写  
-> "Please explain the sentence structure and rewrite this paragraph in simpler, more natural English."
-
-### Step 3：模仿朗读  
-反复跟读改写后的版本，录音对比，提高发音和语调。
-
-### Step 4：积累表达  
-把好的表达整理成笔记，定期复习。
-
----
-
-## 6. 进阶技巧
-
-### Step 1：定期整理错误  
-> "Please list my common grammar mistakes and how to fix them."
-
-每周复习并注意避免重复犯错。
-
-### Step 2：多角色练习  
-让 ChatGPT 扮演不同身份：考官、朋友、客户，体验不同风格的英语交流。
-
-### Step 3：配合语音工具  
-用手机或电脑的语音输入功能和朗读功能，练习发音和口语流利度。
 
 ---
 
@@ -116,4 +66,13 @@ ChatGPT 会回复你：
 
 ---
 
-如果需要，我还可以帮你定制一份“30天ChatGPT英语口语练习计划”，每天任务具体，步骤清晰，帮你稳步提升。你要吗？  
+prompt
+
+Pretend you are an IELTS Speaking examiner. Ask me 5 Part 1 questions on the topic of hobbies. After each of my answers, give short feedback and a corrected version.
+
+Give me an IELTS Speaking Part 2 topic card. Let me prepare for 1 minute, then let me answer for 2 minutes. After that, give me a band 9 sample answer and point out 3 improvements I can make.
+
+
+Ask me 3 IELTS Speaking Part 3 questions on the topic of technology. After I answer, analyze my grammar, vocabulary, fluency, and pronunciation, and give a band score for each.
+
+Please keep a record of my common mistakes during this conversation.
